@@ -7,7 +7,7 @@ Academic tools developed by Nelson Cala-Moreno, PhD.
 * ANOVA & Heritability Calculator: https://nelsoncala.github.io/anova-heritability-calculator/
 * Alelic frecuency simulator: https://nelsoncala.github.io/alelic-frecuency-simulator/
 * Animal Model Tools
-* Pedigree Matrix Builder
+* Pedigree Matrix Builder: https://nelsoncala.github.io/pedigree_matrix_builder/
 * Genetic Selection Simulator
 
 ## Teaching Resources
